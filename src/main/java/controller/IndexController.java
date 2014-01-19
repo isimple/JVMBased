@@ -7,8 +7,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * User: yang
- * Date: 14-1-20
- * Time: 上午12:23
+ * Date: 14-1-20 12:23
  */
 @Controller
 public class IndexController {

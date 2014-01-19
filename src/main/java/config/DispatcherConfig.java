@@ -6,8 +6,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 /**
  * User: yang
- * Date: 14-1-20
- * Time: 上午12:12
+ * Date: 14-1-20 12:12
  */
 @Configuration
 @EnableWebMvc

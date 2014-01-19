@@ -11,8 +11,7 @@ import javax.servlet.ServletRegistration;
 
 /**
  * User: yang
- * Date: 14-1-19
- * Time: 下午3:18
+ * Date: 14-1-19 3:18
  */
 public class Initializer implements WebApplicationInitializer {
 
